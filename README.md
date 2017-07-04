@@ -4,6 +4,7 @@ RestComm
 The Open Source Cloud Communications Platform
 
 [![RestComm for Mobile Providers](http://img.youtube.com/vi/tIlxoeZO8qc/0.jpg)](http://www.youtube.com/watch?v=tIlxoeZO8qc)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fderuelle%2FRestcomm-Connect.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fderuelle%2FRestcomm-Connect?ref=badge_shield)
 
 What is RestComm ?
 ========
@@ -57,3 +58,7 @@ Java Profiler sponsored by YourKit
 [![YourKit The Industry Leader in .NET & Java Profiling](https://www.yourkit.com/images/yk_logo.png)](https://www.yourkit.com/)
 
 [See who has been contributing to RestComm](http://www.telestax.com/opensource/acknowledgments/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fderuelle%2FRestcomm-Connect.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fderuelle%2FRestcomm-Connect?ref=badge_large)
